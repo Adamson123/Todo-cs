@@ -3,7 +3,7 @@ namespace Todo_cs.Utilities
 {
   public static class Utils
   {
-    public static string FuncWrapper(Action action)
+    public static string HandleFuncError(Action action)
     {
       try
       {
