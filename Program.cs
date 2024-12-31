@@ -47,7 +47,7 @@ namespace Todo_cs
     {
       Console.WriteLine(Utils.ChangeTextColor("Enter task index to mark incomplete:"));
       int index = Utils.HandleIndexInput();
-      Tasks.tasks[index].Completed = true;
+      Tasks.tasks[index].Completed = false;
     }
     static void DeleteTaskItem()
     {
