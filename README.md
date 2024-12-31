@@ -1,21 +1,11 @@
-Task Manager (C#)
+# To-Do List Application (C#)
 
-Welcome to my first C# project! 🎉
-This is a simple task management application that allows users to add, view, and manage tasks with due dates. The tasks are stored in a JSON file, making it easy to persist and retrieve data between sessions.
+This is a simple console-based To-Do list application built with C#. It allows users to add, view, mark as complete, and save tasks to a file. This is my **first C# project**, designed to practice object-oriented programming (OOP) principles, file handling, and user input processing.
 
+## Features
 
----
-
-Features 🎯
-
-Add new tasks with names and optional due dates.
-
-View tasks with their completion status.
-
-Mark tasks as completed.
-
-Save tasks to a file in JSON format.
-
-Input validation for due dates (in the format YYYY-MM-DD).
-
-Supports adding, viewing, and updating tasks across sessions.
+• **Add a task**: Add a task with a name and due date.  
+• **View tasks**: Display all tasks with their completion status and due date.  
+• **Mark task as completed**: Mark tasks as complete once done.  
+• **Save tasks**: Automatically saves tasks to a file so they persist between sessions.  
+• **Load tasks**: Loads tasks from a file when the program starts.
