@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Todo-cs\bin\Debug\net8.0\Todo-cs.exe
+C:\Users\Admin\Desktop\Todo-cs\bin\Debug\net8.0\Todo-cs.deps.json
+C:\Users\Admin\Desktop\Todo-cs\bin\Debug\net8.0\Todo-cs.runtimeconfig.json
+C:\Users\Admin\Desktop\Todo-cs\bin\Debug\net8.0\Todo-cs.dll
+C:\Users\Admin\Desktop\Todo-cs\bin\Debug\net8.0\Todo-cs.pdb
+C:\Users\Admin\Desktop\Todo-cs\obj\Debug\net8.0\Todo-cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Todo-cs\obj\Debug\net8.0\Todo-cs.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Todo-cs\obj\Debug\net8.0\Todo-cs.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Todo-cs\obj\Debug\net8.0\Todo-cs.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Todo-cs\obj\Debug\net8.0\Todo-cs.dll
+C:\Users\Admin\Desktop\Todo-cs\obj\Debug\net8.0\refint\Todo-cs.dll
+C:\Users\Admin\Desktop\Todo-cs\obj\Debug\net8.0\Todo-cs.pdb
+C:\Users\Admin\Desktop\Todo-cs\obj\Debug\net8.0\Todo-cs.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Todo-cs\obj\Debug\net8.0\ref\Todo-cs.dll
